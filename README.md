@@ -240,8 +240,8 @@ using the toolchain discussed in class**.
 - [Lab 2: Expression evaluation](https://github.com/mines-csci400/f21a-assignment-lab2)
 - [Lab 3: Basic JavaScript interpreter](https://github.com/mines-csci400/f21a-assignment-lab3)
 - [Lab 4: Implementing recursive higher-order functions](https://github.com/mines-csci400/f21a-assignment-lab4)
-- ~~[Lab 5: Closures, type checking](https://github.com/mines-csci400/f21a-assignment-lab5)~~
-- ~~[Lab 6: Objects, mutable variables](https://github.com/mines-csci400/f21a-assignment-lab6)~~
+- [Lab 5: Closures, type checking](https://github.com/mines-csci400/f21a-assignment-lab5)
+- [Lab 6: Objects, mutable variables](https://github.com/mines-csci400/f21a-assignment-lab6)
 
 
 ## Homework
@@ -255,8 +255,8 @@ You will have approximately **2 weeks** to work on each homework.
 - [Homework 3: Lexing & Parsing](https://github.com/mines-csci400/f21a-assignment-hw03)
 - [Homework 4: Structural induction](https://github.com/mines-csci400/f21a-assignment-hw04)
 - [Homework 5: Big-step semantics](https://github.com/mines-csci400/f21a-assignment-hw05)
-- ~~[Homework 6: Recursive functions](https://github.com/mines-csci400/f21a-assignment-hw06)~~
-- ~~[Homework 7: Type inference](https://github.com/mines-csci400/f21a-assignment-hw07)~~
+- [Homework 6: Recursive functions](https://github.com/mines-csci400/f21a-assignment-hw06)
+- [Homework 7: Type inference](https://github.com/mines-csci400/f21a-assignment-hw07)
 
 ## Acknowledgements
 
