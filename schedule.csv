@@ -22,7 +22,7 @@ week,date,topic,lecture,notes,supplemental reading,homework,lab
 11,Nov 2,higher-order functions,OCaml standard libraries,[lecture18](…),"[JavaScript Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures), [JavaScript Type Conversions](https://www.w3schools.com/js/js_type_conversion.asp)",[hw 6](https://github.com/mines-csci400/f21a-assignment-hw06) assigned,
 ,Nov 4,higher-order functions,small-step operational semantics,[lecture19](…),[Type Checking](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/typecheck.html),,[lab 4](https://github.com/mines-csci400/f21a-assignment-lab04) due
 12,Nov 9,type checking,static/dynamic typing,[lecture20](…),[Hindley-Milner](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/inference.html),,[lab 5](https://github.com/mines-csci400/f21a-assignment-lab05) assigned
-,Nov 11,type checking,type inference,[lecture21(…),Semantics of PL ch 5.1-5.2,[hw 6](https://github.com/mines-csci400/f21a-assignment-hw06) due,
+,Nov 11,type checking,type inference,[lecture21](…),Semantics of PL ch 5.1-5.2,[hw 6](https://github.com/mines-csci400/f21a-assignment-hw06) due,
 13,Nov 16,mutable variables and objects,objects/references,[lecture22](…),Semantics of PL ch 5.3,[hw 7](https://github.com/mines-csci400/f21a-assignment-hw07) assigned,
 ,Nov 18,mutable variables and objects,garbage collection,[lecture23](…),[Mutability](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/intro.html),,[lab 5](https://github.com/mines-csci400/f21a-assignment-lab05) due
 14,Nov 23,*no class*,,,,,[lab 6](https://github.com/mines-csci400/f21a-assignment-lab06) assigned
