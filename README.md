@@ -4,7 +4,7 @@
 - In-person location: Berthoud Hall 108
 - Remote location: [Zoom/YouTube](https://piazza.com/class/ksp8kjp7orn3s4?cid=7)
 
-## Instructors
+## Instructor
 
 [Jedidiah McClurg](https://www.jrmcclurg.com/), Assistant Professor of CS
 
