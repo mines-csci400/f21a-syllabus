@@ -11,11 +11,6 @@
 - Contact: mcclurg (at) mines (dot) edu
 - Office Hours: Tue Thu 5:30pm-6:20pm, via [Zoom](https://piazza.com/class/ksp8kjp7orn3s4?cid=7)
 
-Jordan Schmerge, PhD Student in CS
-
-- Contact: jschmerg (at) mines (dot) edu
-- Office Hours: TBA
-
 ## Teaching Assistants (TA)
 
 Christopher (Chris) Muller
@@ -25,6 +20,10 @@ Christopher (Chris) Muller
 Jacob McBee
 
 - Contact: mcbee (at) mines (dot) edu
+
+Jordan Schmerge
+
+- Contact: jschmerg (at) mines (dot) edu
 
 ## Course Overview
 
