@@ -29,7 +29,7 @@ week,date,topic,lecture,notes,supplemental reading,homework,lab
 ,Nov 25,*no class (holiday)*,,,,,[lab 6](https://github.com/mines-csci400/f21a-assignment-lab06) assigned
 15,Nov 30,mutable variables and objects,garbage collection,[lecture23](https://piazza.com/class_profile/get_resource/ksp8kjp7orn3s4/kwlmj3fpg39346),[Mutability](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/intro.html),,
 ,Dec 2,advanced topics,,[lecture24](https://piazza.com/class_profile/get_resource/ksp8kjp7orn3s4/kwpdtbpuh2b5iu),[Mutable Fields](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/mutable_fields.html),[hw 7](https://github.com/mines-csci400/f21a-assignment-hw07) due,[lab 5](https://github.com/mines-csci400/f21a-assignment-lab05) due
-16,Dec 7,,(exam review),[lecture25](…),[Currying](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/hop/currying.html),,
+16,Dec 7,,(exam review),[lecture25](https://piazza.com/class_profile/get_resource/ksp8kjp7orn3s4/kwx1r7ozo7535o),[Currying](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/hop/currying.html),,
 ,Dec 9,*no class (study for finals)*,,,,,
 17,Dec 14,*no class (final exam week)*,,,,,
 ,Dec 16,*no class (final exam week)*,,,,,[lab 6](https://github.com/mines-csci400/f21a-assignment-lab06) due
